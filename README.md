@@ -11,3 +11,5 @@ And I will accomplish the reading task as soon as possible.
 
 
 Here is the link for the famous article:https://arxiv.org/abs/1408.5882
+
+Link for course:https://stanford.edu/class/cs276/
